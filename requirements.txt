@@ -1,0 +1,6 @@
+torch
+transformers
+Pillow
+opencv-python
+einops
+timm
